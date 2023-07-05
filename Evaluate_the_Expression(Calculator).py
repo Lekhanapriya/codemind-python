@@ -1,3 +1,3 @@
 import math
-s=str(input())
-print(eval(s))
+a=str(input())
+print(eval(a))
