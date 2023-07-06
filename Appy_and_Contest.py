@@ -6,8 +6,6 @@ for i in range(t):
     b=n//b
     k1=(a+b-x)
     if k1>=k:
-        print("Win")
+        print('Win')
     else:
-        print("Lose")
-            
-        
+        print('Lose')
